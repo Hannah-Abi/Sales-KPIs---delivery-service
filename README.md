@@ -46,7 +46,7 @@ Using SQL, create a query that produces a table where we can see the proﬁtabil
 	- average order size
 	- average order value
 	- order volume
-Plot the monthly cumulative Woltwide (i.e. global) margin
+- Plot the monthly cumulative Woltwide (i.e. global) margin
 
 
 
